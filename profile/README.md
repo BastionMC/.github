@@ -1,4 +1,4 @@
-<p align="center"><img src="https://bastionmc.github.io/github/assets/profile/organisation_icon.png" height="128px" width="128px"></p>
+<p align="center"><img src="https://bastionmc.github.io/github/assets/profile/organisation_icon.png" height="384px" width="384px"></p>
 <h1 align="center">Bastion</h1>
 
 ## Our Projects
