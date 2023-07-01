@@ -1,8 +1,11 @@
-<p align="center"><img src="https://bastionmc.github.io/github/assets/profile/organisation_icon.png" height="256px" width="256px"></p>
+<p align="center"><img src="https://bastionmc.github.io/github/assets/profile/organisation_icon.png" height="128px" width="128px"></p>
 <h1 align="center">Bastion</h1>
 
 ## Our Projects
-| <div style="width:256px;"><img src="https://bastionmc.github.io/github/assets/profile/project_icons/bastion_launcher.png" height="64px" width="64px"></div> | <div style="width:256px;"><img src="https://bastionmc.github.io/github/assets/profile/project_icons/mcwebgui.png" height="64px" width="64px"></div> | <div style="width:256px;"><img src="https://bastionmc.github.io/github/assets/profile/project_icons/quartz.png" height="64px" width="64px"></div> | <div style="width:256px;"><img src="https://bastionmc.github.io/github/assets/profile/project_icons/nylium.png" height="64px" width="64px"></div> | <div style="width:256px;"><img src="https://bastionmc.github.io/github/assets/profile/project_icons/netherrack.png" height="64px" width="64px"></div> | <div style="width:256px;"><img src="https://bastionmc.github.io/github/assets/profile/project_icons/quartz.png" height="64px" width="64px"></div> | <div style="width:256px;"><img src="https://bastionmc.github.io/github/assets/profile/project_icons/bastion_installer.png" height="64px" width="64px"></div> |
-| --- | --- | --- | --- | --- | --- | --- |
-| Bastion Launcher | MCWebGUI | Quartz Server | Nylium | Netherrack | Quartz Client | Bastion Installer |
-| To be started | In progress | In progress | To be started | In progress | To be started | To be started |
+<a href="https://github.com/BastionMC/BastionLauncher">![Bastion Launcher](https://bastionmc.github.io/github/assets/profile/project_banners/bastion_launcher.png)</a>
+<a href="https://github.com/BastionMC/MCWebGUI">![MCWebGUI](https://bastionmc.github.io/github/assets/profile/project_banners/mcwebgui.png)</a>
+<a href="https://github.com/BastionMC/QuartzServer">![QuartzServer](https://bastionmc.github.io/github/assets/profile/project_banners/quartz.png)</a>
+<a href="https://github.com/BastionMC/Nylium">![Nylium](https://bastionmc.github.io/github/assets/profile/project_banners/nylium.png)</a>
+<a href="https://github.com/BastionMC/Netherrack">![Netherrack](https://bastionmc.github.io/github/assets/profile/project_banners/netherrack.png)</a>
+<a href="https://github.com/BastionMC/QuartzClient">![QuartzClient](https://bastionmc.github.io/github/assets/profile/project_banners/quartz.png)</a>
+<a href="https://github.com/BastionMC/BastionInstaller">![BastionInstaller](https://bastionmc.github.io/github/assets/profile/project_banners/bastion_installer.png)</a>
