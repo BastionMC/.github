@@ -6,3 +6,4 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | Bastion Launcher | MCWebGUI | Quartz Server | Nylium | Netherrack | Quartz Client | Bastion Installer |
 | To be started | In progress | In progress | To be started | In progress | To be started | To be started |
+| ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
