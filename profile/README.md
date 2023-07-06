@@ -10,7 +10,7 @@
 <img width="25%" src="https://bastionmc.github.io/github/assets/profile/project_banners/mcwebgui.png">
 </a>
 <a href="https://github.com/BastionMC/QuartzServer">
-<img width="25%" src="https://bastionmc.github.io/github/assets/profile/project_banners/quartz_server.png">
+<img width="25%" src="https://bastionmc.github.io/github/assets/profile/project_banners/quartz_server.jpg">
 </a>
 <a href="https://github.com/BastionMC/Nylium">
 <img width="25%" src="https://bastionmc.github.io/github/assets/profile/project_banners/nylium.png">
@@ -19,7 +19,7 @@
 <img width="25%" src="https://bastionmc.github.io/github/assets/profile/project_banners/netherrack.png">
 </a>
 <a href="https://github.com/BastionMC/QuartzClient">
-<img width="25%" src="https://bastionmc.github.io/github/assets/profile/project_banners/quartz_client.png">
+<img width="25%" src="https://bastionmc.github.io/github/assets/profile/project_banners/quartz_client.jpg">
 </a>
 <a href="https://github.com/BastionMC/BastionInstaller">
 <img width="25%" src="https://bastionmc.github.io/github/assets/profile/project_banners/bastion_installer.png">
