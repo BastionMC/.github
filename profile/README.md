@@ -1,5 +1,5 @@
 <p align="center"><img src="https://bastionmc.github.io/github/assets/profile/organisation_icon.png" height="128px" width="128px"></p>
-<h1 align="center">Bastion</h1>
+<h1 align="center">Bastion</h1><p align="center">We make stuff.</p>
 
 ## Our Projects
 <p align="center">
