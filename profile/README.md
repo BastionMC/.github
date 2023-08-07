@@ -4,25 +4,25 @@
 ## Our Projects
 <p align="center">
 <a href="https://github.com/BastionMC/BastionLauncher">
-<img width="50%" src="https://bastionmc.github.io/github/assets/profile/project_banners/bastion_launcher.png">
+<img width="calc(50% - 32px)" src="https://bastionmc.github.io/github/assets/profile/project_banners/bastion_launcher.png">
 </a>
 <a href="https://github.com/BastionMC/MCWebGUI">
-<img width="50%" src="https://bastionmc.github.io/github/assets/profile/project_banners/mcwebgui.png">
+<img width="calc(50% - 32px)" src="https://bastionmc.github.io/github/assets/profile/project_banners/mcwebgui.png">
 </a>
 <a href="https://github.com/BastionMC/QuartzServer">
-<img width="50%" src="https://bastionmc.github.io/github/assets/profile/project_banners/quartz_server.png">
+<img width="calc(50% - 32px)" src="https://bastionmc.github.io/github/assets/profile/project_banners/quartz_server.png">
 </a>
 <a href="https://github.com/BastionMC/Nylium">
-<img width="50%" src="https://bastionmc.github.io/github/assets/profile/project_banners/nylium.png">
+<img width="calc(50% - 32px)" src="https://bastionmc.github.io/github/assets/profile/project_banners/nylium.png">
 </a>
 <a href="https://github.com/BastionMC/Netherrack">
-<img width="50%" src="https://bastionmc.github.io/github/assets/profile/project_banners/netherrack.png">
+<img width="calc(50% - 32px)" src="https://bastionmc.github.io/github/assets/profile/project_banners/netherrack.png">
 </a>
 <a href="https://github.com/BastionMC/QuartzClient">
-<img width="50%" src="https://bastionmc.github.io/github/assets/profile/project_banners/quartz_client.png">
+<img width="calc(50% - 32px)" src="https://bastionmc.github.io/github/assets/profile/project_banners/quartz_client.png">
 </a>
 <a href="https://github.com/BastionMC/BastionInstaller">
-<img width="50%" src="https://bastionmc.github.io/github/assets/profile/project_banners/bastion_installer.png">
+<img width="calc(50% - 32px)" src="https://bastionmc.github.io/github/assets/profile/project_banners/bastion_installer.png">
 </a>
 </p>
 
