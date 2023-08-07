@@ -25,3 +25,5 @@
 <img width="25%" src="https://bastionmc.github.io/github/assets/profile/project_banners/bastion_installer.png">
 </a>
 </p>
+
+<sub>BASTION AND ALL IT'S PROJECTS ARE NOT AN OFFICIAL MINECRAFT PRODUCT. WE ARE NOT AFFILIATED WITH MOJANG IN ANY WAY.</sub>
