@@ -8,3 +8,5 @@
 </p>
 
 <p align="center"><sub>BASTION AND ALL IT'S PROJECTS ARE NOT AN OFFICIAL MINECRAFT PRODUCT. WE ARE NOT ASSOCIATED WITH MOJANG STUDIOS AND MICROSOFT IN ANY WAY.</sub></p>
+
+<p align="center"><sub>Just saying, if you don't want to create a Discord account for discussing problems, uses the Discussions tab.</sub></p>
