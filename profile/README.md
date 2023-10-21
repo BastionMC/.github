@@ -1,4 +1,4 @@
-<p align="center"><img src="https://bastionmc.github.io/github/assets/profile/organisation_icon.png" height="128px" width="128px"></p>
+<p align="center"><img src="https://bastionmc.github.io/github/assets/profile/organisation_logo.png" height="256px" width="256px"></p>
 <h1 align="center">Bastion</h1>
 <p align="center">We're a group of developers that create tools and other stuff for <a href="https://minecraft.net">Minecraft</a>.</p>
 
