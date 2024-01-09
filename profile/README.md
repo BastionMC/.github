@@ -2,7 +2,7 @@
 <h1 align="center">Bastion</h1>
 <p align="center">We're a group of developers that create tools and other stuff for <a href="https://minecraft.net">Minecraft</a>. Some of our Projects include:</p>
 
-- An IDE for Minecraft Datapack, with custom syntax support
+- An IDE for Minecraft Datapacks, with custom syntax support
 - The whole game rewritten in Rust
 - A HTML library for creating Minecraft interfaces
 
