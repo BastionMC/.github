@@ -4,7 +4,7 @@
 
 - An IDE for Minecraft Datapacks, with custom syntax support
 - The whole game rewritten in Rust
-- A HTML library for creating OreUI-styled interfaces
+- A HTML library for creating OreUI-styled interfaces using a collection of custom elements
 
 <p align="center">If you have any further questions, don't hesitate to ask in <a href="https://discord.gg/KvZJGqMEhU">our Discord</a>!<br>We'll be happy to help you understand how stupendiously large this project is...</p>
 
