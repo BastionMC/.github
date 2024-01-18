@@ -1,9 +1,9 @@
-<p align="center"><img src="https://bastionmc.github.io/github/assets/profile/organisation_logo.png" height="256px" width="256px">(Rerendered logo soon™️.)</p>
+<p align="center"><img src="https://bastionmc.github.io/github/assets/profile/organisation_logo.png" height="256px" width="256px"><br>(Rerendered logo soon™️.)</p>
 <h1 align="center">Bastion</h1>
 <p align="center">We're a group of developers that create tools and other stuff for <a href="https://minecraft.net">Minecraft</a>. Some of our Projects include:</p>
 
 - An IDE for Minecraft Datapacks, with custom syntax support
-- The whole game rewritten in Rust
+- A client, that uses the original client's asstets, and a server, both written in Rust
 - A HTML library for creating OreUI-styled interfaces using a collection of custom elements
 
 <p align="center">If you have any further questions, don't hesitate to ask in <a href="https://discord.gg/KvZJGqMEhU">our Discord</a>!<br>We'll be happy to help you understand how stupendiously large this project is...</p>
