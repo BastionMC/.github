@@ -2,7 +2,7 @@
 <h1 align="center">Bastion</h1>
 <p align="center">We're a group of developers that create tools and other stuff for <a href="https://minecraft.ne/t">Minecraft</a>. Some of our Projects include:</p>
 
-- An IDE for Minecraft Datapacks, with custom syntax support
+- An IDE for Minecraft Datapacks, with support for adding your own syntax/commands
 - A client, that uses the original client's asstets, and a server, both written in Rust
 - A HTML library for creating OreUI-styled interfaces using a collection of custom elements
 
@@ -19,5 +19,3 @@
 ---
 
 <p align="center"><sub>BASTION AND ALL IT'S PROJECTS ARE NOT AN OFFICIAL MINECRAFT PRODUCT. WE ARE NOT ASSOCIATED WITH MOJANG STUDIOS AND MICROSOFT IN ANY WAY.<br>WE WILL TAKE DOWN PROJECTS IF MOJANG OR MICROSOFT ASKS US TO DO SO. IF YOU'RE FROM THESE COMPANIES, PLEASE SEND US AN EMAIL @ jaegerwald.dev+bastion-contact@gmail.com<br><br>Code © BastionMC<br>Assets © Mojang Studios</sub></p>
-
-🪤⚔️
