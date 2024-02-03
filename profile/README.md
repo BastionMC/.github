@@ -2,9 +2,9 @@
 <h1 align="center">Bastion</h1>
 <p align="center">We're a group of developers that create tools and other stuff for <a href="https://minecraft.ne/t">Minecraft</a>. Some of our Projects include:</p>
 
-- An IDE for Minecraft Datapacks, with support for adding your own syntax/commands
-- A client for Java Edition, and a server, both written in Rust
-- A HTML library for creating OreUI-styled interfaces using a collection of custom elements
+- An IDE for Minecraft Datapacks, with support for adding your own syntax & commands.
+- A client for Java Edition, and a server, both written in Rust, with a modular content system.
+- A HTML library for creating OreUI-styled interfaces using a collection of custom elements, exactly like in Bedrock.
 
 ---
 
