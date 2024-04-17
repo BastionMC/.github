@@ -20,7 +20,7 @@
 
 <h1 align="center">Our other Projects</h1>
 
-While having it's own seperate dev team, [The ROFL Programming Language](https://github.com/ROFLLang) is still a part of Bastion. At the moment it is only idea, that might evolve further.
+While having it's own seperate dev team, [The ROFL Programming Language](https://github.com/ROFLLang) is still a part of Bastion. At the moment it is only idea, that might evolve further. It's intend is to be as simple as possible, with no need to understand the english language, unlike other programming languages.
 
 ---
 
