@@ -18,10 +18,4 @@
 
 ---
 
-<h1 align="center">Our other Projects</h1>
-
-While having it's own seperate dev team, [The ROFL Programming Language](https://github.com/ROFLLang) is still a part of Bastion. At the moment it is only idea, that might evolve further. It's intend is to be as simple as possible, with no need to understand the english language, unlike other programming languages.
-
----
-
 <p align="center"><sub>BASTION AND ALL IT'S PROJECTS ARE NOT AN OFFICIAL MINECRAFT PRODUCT. WE ARE NOT ASSOCIATED WITH MOJANG STUDIOS AND MICROSOFT IN ANY WAY.<br><br>WE WILL TAKE DOWN PROJECTS IF MOJANG OR MICROSOFT ASKS US TO DO SO. IF YOU'RE FROM THESE COMPANIES, PLEASE SEND US AN EMAIL @ jaegerwald.dev+bastion-contact@gmail.com<br><br>Code © BastionMC<br>Assets © Mojang Studios</sub></p>
