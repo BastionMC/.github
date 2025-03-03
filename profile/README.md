@@ -3,10 +3,7 @@
 <p align="center">We're a group of developers that create tools and other stuff for <a href="https://minecraft.ne/t">Minecraft</a>. Some of our Projects include:</p>
 
 - An IDE for Minecraft Datapacks, with support for adding your own syntax & commands.
-- A client for Java Edition, and a server, both written in Rust, with a modular content system.
-- A HTML library for creating OreUI-styled interfaces using a collection of custom elements, exactly like in Bedrock.
-
----
+- An IDE for making Minecraft Datapacks through visual scripting, built upon Netherrack.
 
 <p align="center">If you have any further questions, don't hesitate to ask in <a href="https://discord.gg/KvZJGqMEhU">our Discord</a>!<br>We'll be happy to help you understand how stupendiously large this project is...</p>
 
