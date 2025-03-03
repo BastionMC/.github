@@ -5,7 +5,7 @@
 - An IDE for Minecraft Datapacks, with support for adding your own syntax & commands.
 - An IDE for making Minecraft Datapacks through visual scripting, built upon Netherrack.
 
-<p align="center">If you have any further questions, don't hesitate to ask in <a href="https://discord.gg/KvZJGqMEhU">our Discord</a>!<br>We'll be happy to help you understand how stupendiously large this project is...</p>
+<p align="center">If you have any further questions, don't hesitate to ask in <a href="https://discord.gg/KvZJGqMEhU">our Discord</a>!
 
 <p align="center">
 <a href="https://discord.gg/KvZJGqMEhU"><img alt="discord-plural" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg"></a>
